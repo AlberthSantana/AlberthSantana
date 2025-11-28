@@ -1,6 +1,12 @@
 <h1 style="color: #90EE90; text-shadow: 0 0 5px #7CFC00, 0 0 10px #7CFC00;">
-  Olá! Eu sou o Alberth 👋
+  Olá! Eu sou o Alberth 👋
 </h1>
+
+<div style="background-color: #2F4F4F; padding: 10px; border-radius: 8px; border: 2px solid #AFEEEE; text-align: center; margin-bottom: 20px;">
+    <h2 style="color: #E0FFFF; margin: 0; font-size: 1.5em; text-shadow: 0 0 5px #E0FFFF;">
+        In the beginning, God created the heavens and the earth.
+    </h2>
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Desenvolvimento+Web;Buscando+sempre+aprender+e+crescer" alt="Typing Animation" />
 
