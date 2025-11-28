@@ -1,0 +1,33 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: AlberthSantana # Seu nome de usuário do GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif # Opcional: para gerar um GIF também
+          colors: |
+            border:#282a36,
+            dot:#6272a4,
+            light:#44475a,
+            dark:#6272a4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Necessário para acessar as contribuições
+
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output # Onde a imagem será salva (branch 'output')
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
