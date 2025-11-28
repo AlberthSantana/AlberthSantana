@@ -1,6 +1,6 @@
 # Olá! Eu sou o Alberth 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66FC66&width=600&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Desenvolvimento+Web;Buscando+sempre+aprender+e+crescer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8e44ad&width=600&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Desenvolvimento+Web;Buscando+sempre+aprender+e+crescer" alt="Typing Animation" />
 
 ---
 
