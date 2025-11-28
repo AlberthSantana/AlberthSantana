@@ -1,65 +1,36 @@
-# 👩🏻‍💻 Alberth
+# Olá! Eu sou o Alberth 👋
 
-**`Estudante de Engenharia de Software`**
+### ✍️ Animação de Apresentação
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66FC66&width=435&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Desenvolvimento+Web;Buscando+sempre+aprender+e+crescer" alt="Typing Animation" />
 
-Meu nome é Alberth, Sou pai de 2 filhos e estou aprendendo a programar com 36 anos de idade. 😊
+### 🎓 Estudante de Engenharia de Software
+
+Sou um entusiasta da programação e estou atualmente mergulhado no universo da **Engenharia de Software**. Meu foco é transformar ideias em soluções funcionais, construindo uma base sólida em desenvolvimento web e lógico.
+
+### 💻 Tecnologias que Utilizo
+
+Conhecimento e paixão em:
 
 <p align="left">
-    <a href="https://github.com/AlberthSantana?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AlberthSantana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AlberthSantana?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlberthSantana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🐍 Minhas Contribuições (Animação do Snake)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div align="center">
+  <img src="https://github.com/Alberth/Alberth/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<br>
-
-
-
+###### Desenvolvido com carinho. 😊
