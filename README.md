@@ -1,9 +1,10 @@
 # Olá! Eu sou o Alberth 👋
 
-### ✍️ Animação de Apresentação
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66FC66&width=435&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Desenvolvimento+Web;Buscando+sempre+aprender+e+crescer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66FC66&width=600&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Desenvolvimento+Web;Buscando+sempre+aprender+e+crescer" alt="Typing Animation" />
 
-### 🎓 Estudante de Engenharia de Software
+---
+
+### 🎓 Sobre Mim
 
 Sou um entusiasta da programação e estou atualmente mergulhado no universo da **Engenharia de Software**. Meu foco é transformar ideias em soluções funcionais, construindo uma base sólida em desenvolvimento web e lógico.
 
@@ -22,14 +23,6 @@ Conhecimento e paixão em:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 🐍 Minhas Contribuições (Animação do Snake)
-
-<div align="center">
-  <img src="https://github.com/Alberth/Alberth/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-</div>
 
 ---
 
