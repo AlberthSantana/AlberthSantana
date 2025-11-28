@@ -6,7 +6,9 @@
 
 ### 🎓 Sobre Mim
 
-Sou um entusiasta da programação e estou atualmente mergulhado no universo da **Engenharia de Software**. Meu foco é transformar ideias em soluções funcionais, construindo uma base sólida em desenvolvimento web e lógico.
+Sou um entusiasta da programação e estou atualmente mergulhado no universo da **Engenharia de Software**.
+
+Comecei a estudar programação aos **36 anos**, provando que nunca é tarde para buscar uma nova paixão! Sou **casado** e pai de **dois filhos**, e meu objetivo é transformar ideias em soluções funcionais, construindo uma base sólida em desenvolvimento web e lógico.
 
 ### 💻 Tecnologias que Utilizo
 
