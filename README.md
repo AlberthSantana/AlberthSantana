@@ -32,6 +32,6 @@ Conhecimento e paixão em:
 </p>
 
 ---
-![Snake Game](https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/AlberthSantana/output/github-contribution-grid-snake.svg)
 
 ###### Desenvolvido com carinho. 😊
