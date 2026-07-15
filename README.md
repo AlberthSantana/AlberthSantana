@@ -31,6 +31,11 @@ Conhecimento e paixão em:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlberthSantana&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlberthSantana&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
+
 ---
 
 <picture>
